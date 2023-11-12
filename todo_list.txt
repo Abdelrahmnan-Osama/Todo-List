@@ -1,0 +1,6 @@
+Incompleted Tasks | Completed Tasks
+------------------------------------
+    Studying      |      Eating      
+     Playing      |     Sleeping     
+    cleaning      |    exercising    
+                  |      Singing     
